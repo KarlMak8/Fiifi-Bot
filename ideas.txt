@@ -1,0 +1,9 @@
+1. Make energy/hunger system that depletes gradually when user works
+2. Make menu have a rotation over some period of time, 2 hours, 24 hours
+3. Make each menu item have a certain amount of energy/hunger it refills
+4. Make a bag to store the items purchased from the menu
+5. Make an eat command for the user to eat items from the bag
+
+
+DONE fix experience in user_data issue
+DONE fix prefix issue where it switches globally
